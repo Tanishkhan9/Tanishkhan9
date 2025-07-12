@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👨‍💻 All of my projects are available at [https://tanishkhan9.github.io/Portfolio-2.O/](https://tanishkhan9.github.io/Portfolio-2.O/)
+- 👨‍💻 All of my projects are available at [https://tanishkhan9.github.io/Portfolio-2.O/](https://tanishkhan9.github.io/Portfolio-2.0/)
 
 - 💬 Ask me about **Python , C++ , Front-End**
 
