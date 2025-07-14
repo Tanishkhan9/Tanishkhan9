@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanishkhan953@gmail.com**
 
-- 📄 Know about my experiences [https://tanishkhan9.github.io/Portfolio-2.O/Tanish-Resume.pdf](https://tanishkhan9.github.io/Portfolio-2.O/Tanish-Resume.pdf)
+- 📄 Know about my experiences [https://tanishkhan9.github.io/Portfolio-2.0/](https://tanishkhan9.github.io/Portfolio-2.0/)
 
 - ⚡ Fun fact **I am Mr. Perfect**
 
